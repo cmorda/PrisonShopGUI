@@ -508,75 +508,195 @@ shopMenuItems:
   1:
     item:
       # The same rules apply for material, amount, damage and lore as for goBackButton
-      material: GRASS
+      material: IRON_BLOCK
       quantity: 1
-      name: "&9&lBlocks"
+      name: "&7&lA Shop"
     # Shop ID from shops.yml
-    shop: "blocks"
+    shop: "A"
     # Slot in shops menu, counting from 0 to 53
     slot: 0
   2: 
     item:
-      material: COOKED_CHICKEN 
+      material: IRON_BLOCK 
       quantity: 1 
-      damage: 0
-      name: "&2&lFood"
-      lore:
-        - "&7Get some yummy food here!"
-    shop: "food" 
+      name: "&7&lB Shop"
+    shop: "B" 
     slot: 1
   3: 
     item:
-      material: GOLD_INGOT 
+      material: IRON_BLOCK 
       quantity: 1 
-      damage: 0
-      name: "&3&lOres"
-    shop: "ores" 
+      name: "&7&lC Shop"
+    shop: "C" 
     slot: 2
   4:
     item:
-      material: IRON_PICKAXE
-      quantity: 1
-      name: "&8&lTools"
-    shop: "tools"
+      material: IRON_BLOCK 
+      quantity: 1 
+      name: "&7&lD Shop"
+    shop: "D" 
     slot: 3
   5:
     item:
-      material: DIAMOND_CHESTPLATE
-      quantity: 1
-      name: "&4&lArmor"
-    shop: "armor"
+      material: IRON_BLOCK 
+      quantity: 1 
+      name: "&7&lE Shop"
+    shop: "E" 
     slot: 4
   6:
     item:
-      material: WHEAT
-      quantity: 1
-      name: "&5&lFarming"
-    shop: "farming"
+      material: IRON_BLOCK 
+      quantity: 1 
+      name: "&7&lF Shop"
+    shop: "F" 
     slot: 5
   7:
     item:
-      material: SPIDER_EYE
-      quantity: 1
-      name: "&9&lMob drops"
-    shop: "drops"
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lG Shop"
+    shop: "G" 
     slot: 6
   8:
     item:
-      material: INK_SACK
-      quantity: 1
-      damage: 12
-      name: "&2&lDyes"
-    shop: "dyes"
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lG|H Shop"
+    shop: "H" 
     slot: 7
   9:
     item:
-      material: SADDLE
-      quantity: 1
-      name: "&3&lMiscellanous"
-    shop: "miscellanous"
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lI Shop"
+    shop: "I" 
     slot: 8
-
+  10:
+    item:
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lJ Shop"
+    shop: "J" 
+    slot: 9
+  11:
+    item:
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lK Shop"
+    shop: "K" 
+    slot: 10
+  12:
+    item:
+      material: GOLD_BLOCK 
+      quantity: 1 
+      name: "&e&lL Shop"
+    shop: "L" 
+    slot: 11
+  13:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lM Shop"
+    shop: "M" 
+    slot: 12
+  14:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lN Shop"
+    shop: "N" 
+    slot: 13
+  15:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lO Shop"
+    shop: "O" 
+    slot: 14
+  16:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lP Shop"
+    shop: "P" 
+    slot: 15
+  17:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lQ Shop"
+    shop: "Q" 
+    slot: 16
+  18:
+    item:
+      material: DIAMOND_BLOCK 
+      quantity: 1 
+      name: "&9&lR Shop"
+    shop: "R" 
+    slot: 17
+  19:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lS Shop"
+    shop: "S" 
+    slot: 18
+  20:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lT Shop"
+    shop: "T" 
+    slot: 19
+  21:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lU Shop"
+    shop: "U" 
+    slot: 20
+  22:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lV Shop"
+    shop: "V" 
+    slot: 21
+  23:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lW Shop"
+    shop: "W" 
+    slot: 22
+  24:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lX Shop"
+    shop: "X" 
+    slot: 23
+  25:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lY Shop"
+    shop: "Y" 
+    slot: 24
+  26:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&a&lZ Shop"
+    shop: "Z" 
+    slot: 25
+  27:
+    item:
+      material: EMERALD_BLOCK 
+      quantity: 1 
+      name: "&d&lVIP Shop"
+    shop: "VIP" 
+    slot: 26
 
 specialElements:
   balance:
