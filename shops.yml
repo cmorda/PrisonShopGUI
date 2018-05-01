@@ -13,72 +13,73 @@ shops:
       1:
         type: item
         item:
-          material: GRASS
-          quantity: 64
+          material: STONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 3
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: COBBLESTONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 2
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 4
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 2
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 4
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 1
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: RAW_CHICKEN
+          quantity: 1
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 3
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: PORK
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: FEATHER
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 8
@@ -100,72 +101,73 @@ shops:
       1:
         type: item
         item:
-          material: MELON
-          quantity: 10
+          material: STONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 4
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: COBBLESTONE
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 6
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 6
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 1
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: RAW_CHICKEN
+          quantity: 1
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 3
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: PORK
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: FEATHER
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 8
@@ -175,265 +177,343 @@ shops:
         slot: 17
   C:
     name: "&7&lC Sellables (page %page%)"
-    size: 18
+    size: 27
     buttons:
       goBack:
-        slot: 13
+        slot: 22
       previousPage:
-        slot: 12
+        slot: 21
       nextPage:
-        slot: 14
+        slot: 23
     items:
       1:
         type: item
         item:
-          material: MELON
-          quantity: 10
+          material: STONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 7
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: COBBLESTONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 6
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 10
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: GOLD_ORE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 16
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: GOLD_INGOT
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 20
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 6
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 10
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 16
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 1
         slot: 8
       10:
+        type: item
+        item:
+          material: RAW_CHICKEN
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 9
+      11:
+        type: item
+        item:
+          material: PORK
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 10
+      12:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 11
+      13:
         type: special
         special: BALANCE
-        slot: 17
+        slot: 26
   D:
     name: "&7&lD Sellables (page %page%)"
-    size: 18
+    size: 27
     buttons:
       goBack:
-        slot: 13
+        slot: 22
       previousPage:
-        slot: 12
+        slot: 21
       nextPage:
-        slot: 14
+        slot: 23
     items:
       1:
         type: item
         item:
-          material: MELON
-          quantity: 10
+          material: STONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 13
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: COBBLESTONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 11
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 16
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: GOLD_ORE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 21
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: GOLD_INGOT
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 25
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 11
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 16
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 21
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 1
         slot: 8
       10:
+        type: item
+        item:
+          material: RAW_CHICKEN
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 9
+      11:
+        type: item
+        item:
+          material: PORK
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 10
+      12:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 11
+      13:
         type: special
         special: BALANCE
-        slot: 17
+        slot: 26
   E:
     name: "&7&lE Sellables (page %page%)"
-    size: 18
+    size: 27
     buttons:
       goBack:
-        slot: 13
+        slot: 22
       previousPage:
-        slot: 12
+        slot: 21
       nextPage:
-        slot: 14
+        slot: 23
     items:
       1:
         type: item
         item:
-          material: MELON
-          quantity: 10
+          material: STONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 17
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: COBBLESTONE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 15
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 20
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: GOLD_ORE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 25
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: GOLD_INGOT
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 29
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 15
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 20
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 25
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 1
         slot: 8
       10:
+        type: item
+        item:
+          material: RAW_CHICKEN
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 9
+      11:
+        type: item
+        item:
+          material: PORK
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 10
+      12:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 3
+        slot: 11
+      13:
         type: special
         special: BALANCE
-        slot: 17
+        slot: 26
   F:
     name: "&7&lF Sellables (page %page%)"
     size: 18
@@ -448,72 +528,74 @@ shops:
       1:
         type: item
         item:
-          material: MELON
-          quantity: 10
+          material: COAL
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 25
         slot: 0
       2:
         type: item
         item:
-          material: DIRT
-          quantity: 64
+          material: GOLD_ORE
+          quantity: 1
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 30
         slot: 1
       3:
         type: item
         item:
-          material: GRAVEL
-          quantity: 64
+          material: GOLD_INGOT
+          quantity: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 34
         slot: 2
       4:
         type: item
         item:
-          material: COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 2
         buyPrice: -1
-        sellPrice: 3
+        sellPrice: 25
         slot: 3
       5:
         type: item
         item:
-          material: MOSSY_COBBLESTONE
-          quantity: 64
+          material: LOG
+          quantity: 1
+          damage: 1
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 30
         slot: 4
       6:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: EGG
+          quantity: 16
         buyPrice: -1
-        sellPrice: 5
+        sellPrice: 1
         slot: 5
       7:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: RAW_CHICKEN
+          quantity: 1
         buyPrice: -1
-        sellPrice: 8
+        sellPrice: 3
         slot: 6
       8:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: PORK
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 7
       9:
         type: item
         item:
-          material: STONE
-          quantity: 64
+          material: FEATHER
+          quantity: 1
         buyPrice: -1
         sellPrice: 3
         slot: 8
