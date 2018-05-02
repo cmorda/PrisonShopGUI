@@ -24,9 +24,9 @@ database:
 #  - TOKEN_MANAGER (requires https://www.spigotmc.org/resources/tokenmanager.8610/)
 economyType: VAULT
 # Name of the main GUI
-shopMenuName: "&3&lShop menu"
+shopMenuName: "&3&lShops"
 # Size of the main GUI, valid values are 9, 18, 27, 36, 45 and 54
-shopMenuSize: 9
+shopMenuSize: 27
 # Define whether selling all with middle mouse button is enabled
 enableSellAll: true
 # Define whether the buy GUI with option to select quantity is enabled
@@ -62,9 +62,9 @@ useDifferentMessagesForFreeItems: true
 # Choose if item names should have first letters of their names capitalized, for instance nether brick would become Nether Brick
 capitalizeItemNames: true
 # Choose the type of price modifiers. (BOTH (permission modifiers have higher priority than command-ones), COMMAND, PERMISSION)
-priceModifiersType: BOTH
+priceModifiersType: PERMISSION
 # Choose if the gui shall be closed after using the Sell All feature
-closeGuiAfterSellAll: false
+closeGuiAfterSellAll: true
 # Choose if bulk buy/sell guis should be opened immediately after clicking an item (enableBuyGUI and enableSellGUI have to be enabled as well and players need the bulk buy/sell permissions)
 openBulkGuiImmediately: false
 # Choose which items stack size should be capped at 16 inside the amount selection GUI so players can't buy eg. oversized ender pearl stacks
@@ -88,13 +88,12 @@ itemStackSizeCappedAt:
 # Choose what gamemodes will prevent players from accessing shops. Valid values: ADVENTURE, CREATIVE, SPECTATOR, SURVIVAL
 disableShopsInGamemodes:
   - ADVENTURE
-  - CREATIVE
   - SPECTATOR
 # Choose in which worlds players won't be able to access the shop. Same list format as disableShopsInGamemodes
 disableShopsInWorlds: []
   
 # Choose whether price modifiers should be displayed in percents instead of decimals (eg. 10% instead of 0.10), remember you will still have to use the decimal way in commands
-displayPriceModifiersInPercents: true
+displayPriceModifiersInPercents: false
 
 # Choose whether the world-specific permission to access shops should be omitted when player has a shop opened with /shop [player] [shop name]
 disableSudoWorldPermissionCheck: false
@@ -141,7 +140,7 @@ shopItemLoreFormat:
 # Logging settings
 log:
   # Define whether transactions will be logged to the console/main server log
-  toConsole: true
+  toConsole: false
   # Define whether transactions will be logged to a separate log
   toFile: false
   # Date format of transactions (http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
@@ -158,7 +157,7 @@ sellHand:
   # When set to true, players will be able to sell any quantity of the item (the price will be calculated from the base price)
   allowAllQuantites: true
   # When set to true, /sell hand will work same way as /sell handall does
-  sellsAllItems: false
+  sellsAllItems: true
 
 # Sell all command settings
 sellAll:
@@ -170,7 +169,7 @@ buttons:
   goBack:
     item:
       # Material name, full list can be found here: http://wiki.brcdev.net/Materials
-      material: NETHER_STAR 
+      material: REDSTONE_BLOCK
       # Amount of the item
       amount: 1 
       # (optional) Data value, for example 1 for WOOD:1 means spruce wood planks
