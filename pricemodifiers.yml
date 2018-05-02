@@ -1,1 +1,201 @@
-priceModifiers: {}
+priceModifiers:
+  prestige2:
+    scope: GLOBAL
+    type: SELL
+    value: 1.02
+  prestige4:
+    scope: GLOBAL
+    type: SELL
+    value: 1.04
+  prestige6:
+    scope: GLOBAL
+    type: SELL
+    value: 1.06
+  prestige8:
+    scope: GLOBAL
+    type: SELL
+    value: 1.08
+  prestige10:
+    scope: GLOBAL
+    type: SELL
+    value: 1.1
+  prestige12:
+    scope: GLOBAL
+    type: SELL
+    value: 1.12
+  prestige14:
+    scope: GLOBAL
+    type: SELL
+    value: 1.14
+  prestige16:
+    scope: GLOBAL
+    type: SELL
+    value: 1.16
+  prestige18:
+    scope: GLOBAL
+    type: SELL
+    value: 1.18
+  prestige20:
+    scope: GLOBAL
+    type: SELL
+    value: 1.2
+  prestige22:
+    scope: GLOBAL
+    type: SELL
+    value: 1.22
+  prestige24:
+    scope: GLOBAL
+    type: SELL
+    value: 1.24
+  prestige26:
+    scope: GLOBAL
+    type: SELL
+    value: 1.26
+  prestige28:
+    scope: GLOBAL
+    type: SELL
+    value: 1.28
+  prestige30:
+    scope: GLOBAL
+    type: SELL
+    value: 1.3
+  prestige32:
+    scope: GLOBAL
+    type: SELL
+    value: 1.32
+  prestige34:
+    scope: GLOBAL
+    type: SELL
+    value: 1.34
+  prestige36:
+    scope: GLOBAL
+    type: SELL
+    value: 1.36
+  prestige38:
+    scope: GLOBAL
+    type: SELL
+    value: 1.38
+  prestige40:
+    scope: GLOBAL
+    type: SELL
+    value: 1.4
+  prestige42:
+    scope: GLOBAL
+    type: SELL
+    value: 1.42
+  prestige44:
+    scope: GLOBAL
+    type: SELL
+    value: 1.44
+  prestige46:
+    scope: GLOBAL
+    type: SELL
+    value: 1.46
+  prestige48:
+    scope: GLOBAL
+    type: SELL
+    value: 1.48
+  prestige52:
+    scope: GLOBAL
+    type: SELL
+    value: 1.5
+  prestige54:
+    scope: GLOBAL
+    type: SELL
+    value: 1.52
+  prestige56:
+    scope: GLOBAL
+    type: SELL
+    value: 1.54
+  prestige58:
+    scope: GLOBAL
+    type: SELL
+    value: 1.56
+  prestige60:
+    scope: GLOBAL
+    type: SELL
+    value: 1.58
+  prestige62:
+    scope: GLOBAL
+    type: SELL
+    value: 1.6
+  prestige64:
+    scope: GLOBAL
+    type: SELL
+    value: 1.62
+  prestige66:
+    scope: GLOBAL
+    type: SELL
+    value: 1.64
+  prestige68:
+    scope: GLOBAL
+    type: SELL
+    value: 1.66
+  prestige70:
+    scope: GLOBAL
+    type: SELL
+    value: 1.68
+  prestige72:
+    scope: GLOBAL
+    type: SELL
+    value: 1.7
+  prestige74:
+    scope: GLOBAL
+    type: SELL
+    value: 1.72
+  prestige76:
+    scope: GLOBAL
+    type: SELL
+    value: 1.74
+  prestige78:
+    scope: GLOBAL
+    type: SELL
+    value: 1.76
+  prestige80:
+    scope: GLOBAL
+    type: SELL
+    value: 1.78
+  prestige82:
+    scope: GLOBAL
+    type: SELL
+    value: 1.8
+  prestige84:
+    scope: GLOBAL
+    type: SELL
+    value: 1.82
+  prestige86:
+    scope: GLOBAL
+    type: SELL
+    value: 1.84
+  prestige88:
+    scope: GLOBAL
+    type: SELL
+    value: 1.86
+  prestige90:
+    scope: GLOBAL
+    type: SELL
+    value: 1.88
+  prestige92:
+    scope: GLOBAL
+    type: SELL
+    value: 1.9
+  prestige94:
+    scope: GLOBAL
+    type: SELL
+    value: 1.92
+  prestige96:
+    scope: GLOBAL
+    type: SELL
+    value: 1.94
+  prestige98:
+    scope: GLOBAL
+    type: SELL
+    value: 1.96
+  prestige100:
+    scope: GLOBAL
+    type: SELL
+    value: 1.98
+  prestige101:
+    scope: GLOBAL
+    type: SELL
+    value: 2.0
