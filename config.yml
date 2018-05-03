@@ -691,7 +691,7 @@ shopMenuItems:
     slot: 25
   27:
     item:
-      material: EMERALD_BLOCK 
+      material: QUARTZ_ORE
       quantity: 1 
       name: "&d&lVIP Shop"
     shop: "VIP" 
