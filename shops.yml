@@ -643,6 +643,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 22
         slot: 3
@@ -756,6 +757,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 30
         slot: 3
@@ -869,6 +871,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 43
         slot: 3
@@ -982,6 +985,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 50
         slot: 3
@@ -1086,6 +1090,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 70
         slot: 3
@@ -1215,6 +1220,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 85
         slot: 3
@@ -1344,6 +1350,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 105
         slot: 3
@@ -1433,6 +1440,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 140
         slot: 1
@@ -1513,6 +1521,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 170
         slot: 1
@@ -1610,6 +1619,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 230
         slot: 1
@@ -1707,6 +1717,7 @@ shops:
         item:
           material: INK_SACK
           quantity: 1
+          damage: 4
         buyPrice: -1
         sellPrice: 350
         slot: 1
