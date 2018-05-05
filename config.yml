@@ -560,7 +560,7 @@ shopMenuItems:
     item:
       material: GOLD_BLOCK 
       quantity: 1 
-      name: "&e&lG|H Shop"
+      name: "&e&lH Shop"
     shop: "H" 
     slot: 7
   9:
