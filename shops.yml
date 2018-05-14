@@ -2493,14 +2493,14 @@ shops:
         slot: 17
   Z:
     name: "&a&lZ Sellables (page %page%)"
-    size: 18
+    size: 27
     buttons:
       goBack:
-        slot: 13
+        slot: 22
       previousPage:
-        slot: 12
+        slot: 21
       nextPage:
-        slot: 14
+        slot: 23
     items:
       1:
         type: item
@@ -2552,9 +2552,105 @@ shops:
         sellPrice: 8000
         slot: 5
       7:
+        type: item
+        item:
+          material: RECORD_4
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 6
+      8:
+        type: item
+        item:
+          material: RECORD_3
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 7
+      9:
+        type: item
+        item:
+          material: GOLD_RECORD
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 8
+      10:
+        type: item
+        item:
+          material: GREEN_RECORD
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 9
+      11:
+        type: item
+        item:
+          material: RECORD_5
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 10
+      12:
+        type: item
+        item:
+          material: RECORD_10
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 11
+      13:
+        type: item
+        item:
+          material: RECORD_12
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 12
+      14:
+        type: item
+        item:
+          material: RECORD_6
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 13
+      15:
+        type: item
+        item:
+          material: RECORD_7
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 14
+      16:
+        type: item
+        item:
+          material: RECORD_9
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 15
+      17:
+        type: item
+        item:
+          material: RECORD_8
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 16
+      18:
+        type: item
+        item:
+          material: RECORD_11
+          quantity: 1
+        buyPrice: -1
+        sellPrice: 20000
+        slot: 17
+      19:
         type: special
         special: BALANCE
-        slot: 17
+        slot: 26
   VIP:
     name: "&a&lVIP Sellables (page %page%)"
     size: 9
