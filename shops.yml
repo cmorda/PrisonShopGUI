@@ -354,7 +354,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 16
+        sellPrice: 21
         slot: 6
       8:
         type: item
@@ -467,7 +467,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 20
+        sellPrice: 27
         slot: 6
       8:
         type: item
@@ -556,7 +556,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 25
+        sellPrice: 33
         slot: 3
       5:
         type: item
@@ -645,7 +645,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 22
+        sellPrice: 14
         slot: 3
       5:
         type: item
@@ -654,7 +654,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 30
+        sellPrice: 40
         slot: 4
       6:
         type: item
@@ -671,7 +671,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 70
+        sellPrice: 75
         slot: 6
       8:
         type: item
@@ -759,7 +759,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 30
+        sellPrice: 16
         slot: 3
       5:
         type: item
@@ -768,7 +768,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 37
+        sellPrice: 65
         slot: 4
       6:
         type: item
@@ -777,7 +777,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 55
+        sellPrice: 65
         slot: 5
       7:
         type: item
@@ -785,7 +785,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 80
+        sellPrice: 140
         slot: 6
       8:
         type: item
@@ -873,7 +873,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 43
+        sellPrice: 25
         slot: 3
       5:
         type: item
@@ -882,7 +882,7 @@ shops:
           quantity: 1
           damage: 2
         buyPrice: -1
-        sellPrice: 50
+        sellPrice: 82
         slot: 4
       6:
         type: item
@@ -899,7 +899,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 105
+        sellPrice: 200
         slot: 6
       8:
         type: item
@@ -987,7 +987,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 50
+        sellPrice: 32
         slot: 3
       5:
         type: item
@@ -1004,7 +1004,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 130
+        sellPrice: 225
         slot: 5
       7:
         type: item
@@ -1092,7 +1092,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 70
+        sellPrice: 45
         slot: 3
       5:
         type: item
@@ -1100,7 +1100,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 205
+        sellPrice: 320
         slot: 4
       6:
         type: item
@@ -1108,7 +1108,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 225
+        sellPrice: 340
         slot: 5
       7:
         type: item
@@ -1125,7 +1125,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 175
+        sellPrice: 300
         slot: 7
       9:
         type: item
@@ -1134,7 +1134,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 205
+        sellPrice: 320
         slot: 8
       10:
         type: item
@@ -1222,7 +1222,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 85
+        sellPrice: 50
         slot: 3
       5:
         type: item
@@ -1230,7 +1230,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 235
+        sellPrice: 375
         slot: 4
       6:
         type: item
@@ -1238,7 +1238,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 255
+        sellPrice: 395
         slot: 5
       7:
         type: item
@@ -1255,7 +1255,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 200
+        sellPrice: 350
         slot: 7
       9:
         type: item
@@ -1264,7 +1264,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 235
+        sellPrice: 375
         slot: 8
       10:
         type: item
@@ -1352,7 +1352,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 105
+        sellPrice: 60
         slot: 3
       5:
         type: item
@@ -1360,7 +1360,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 280
+        sellPrice: 460
         slot: 4
       6:
         type: item
@@ -1368,7 +1368,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 300
+        sellPrice: 500
         slot: 5
       7:
         type: item
@@ -1385,7 +1385,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 245
+        sellPrice: 420
         slot: 7
       9:
         type: item
@@ -1394,7 +1394,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 280
+        sellPrice: 460
         slot: 8
       10:
         type: item
@@ -1442,7 +1442,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 140
+        sellPrice: 71
         slot: 1
       3:
         type: item
@@ -1450,7 +1450,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 360
+        sellPrice: 540
         slot: 2
       4:
         type: item
@@ -1458,7 +1458,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 380
+        sellPrice: 580
         slot: 3
       5:
         type: item
@@ -1466,7 +1466,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 295
+        sellPrice: 500
         slot: 4
       6:
         type: item
@@ -1475,7 +1475,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 360
+        sellPrice: 540
         slot: 5
       7:
         type: item
@@ -1523,7 +1523,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 170
+        sellPrice: 90
         slot: 1
       3:
         type: item
@@ -1531,7 +1531,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 425
+        sellPrice: 775
         slot: 2
       4:
         type: item
@@ -1539,7 +1539,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 445
+        sellPrice: 805
         slot: 3
       5:
         type: item
@@ -1547,7 +1547,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 375
+        sellPrice: 125
         slot: 4
       6:
         type: item
@@ -1555,7 +1555,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 350
+        sellPrice: 750
         slot: 5
       7:
         type: item
@@ -1564,7 +1564,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 425
+        sellPrice: 775
         slot: 6
       8:
         type: item
@@ -1573,7 +1573,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 500
+        sellPrice: 800
         slot: 7
       9:
         type: item
@@ -1621,7 +1621,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 230
+        sellPrice: 100
         slot: 1
       3:
         type: item
@@ -1629,7 +1629,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 488
+        sellPrice: 900
         slot: 2
       4:
         type: item
@@ -1637,7 +1637,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 508
+        sellPrice: 925
         slot: 3
       5:
         type: item
@@ -1645,7 +1645,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 440
+        sellPrice: 152
         slot: 4
       6:
         type: item
@@ -1653,7 +1653,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 405
+        sellPrice: 880
         slot: 5
       7:
         type: item
@@ -1662,7 +1662,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 488
+        sellPrice: 900
         slot: 6
       8:
         type: item
@@ -1671,7 +1671,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 608
+        sellPrice: 915
         slot: 7
       9:
         type: item
@@ -1719,7 +1719,7 @@ shops:
           quantity: 1
           damage: 4
         buyPrice: -1
-        sellPrice: 350
+        sellPrice: 120
         slot: 1
       3:
         type: item
@@ -1727,7 +1727,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 675
+        sellPrice: 1150
         slot: 2
       4:
         type: item
@@ -1735,7 +1735,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 715
+        sellPrice: 1200
         slot: 3
       5:
         type: item
@@ -1743,7 +1743,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 600
+        sellPrice: 215
         slot: 4
       6:
         type: item
@@ -1751,7 +1751,7 @@ shops:
           material: LOG_2
           quantity: 1
         buyPrice: -1
-        sellPrice: 515
+        sellPrice: 1000
         slot: 5
       7:
         type: item
@@ -1760,7 +1760,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 675
+        sellPrice: 1150
         slot: 6
       8:
         type: item
@@ -1769,7 +1769,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 870
+        sellPrice: 1300
         slot: 7
       9:
         type: item
@@ -1816,7 +1816,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 1600
+        sellPrice: 1800
         slot: 1
       3:
         type: item
@@ -1824,7 +1824,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 1700
+        sellPrice: 1900
         slot: 2
       4:
         type: item
@@ -1832,7 +1832,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 1000
+        sellPrice: 500
         slot: 3
       5:
         type: item
@@ -1841,7 +1841,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 1600
+        sellPrice: 1800
         slot: 4
       6:
         type: item
@@ -1850,7 +1850,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 2000
+        sellPrice: 3000
         slot: 5
       7:
         type: item
@@ -1897,7 +1897,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 2900
+        sellPrice: 3200
         slot: 1
       3:
         type: item
@@ -1905,7 +1905,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 3150
+        sellPrice: 3450
         slot: 2
       4:
         type: item
@@ -1913,7 +1913,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 2200
+        sellPrice: 900
         slot: 3
       5:
         type: item
@@ -1930,7 +1930,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 2900
+        sellPrice: 3200
         slot: 5
       7:
         type: item
@@ -1939,7 +1939,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 3500
+        sellPrice: 5400
         slot: 6
       8:
         type: item
@@ -1994,7 +1994,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 4444
+        sellPrice: 6000
         slot: 1
       3:
         type: item
@@ -2002,7 +2002,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 4744
+        sellPrice: 6300
         slot: 2
       4:
         type: item
@@ -2010,7 +2010,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 3800
+        sellPrice: 1800
         slot: 3
       5:
         type: item
@@ -2027,7 +2027,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 4444
+        sellPrice: 6000
         slot: 5
       7:
         type: item
@@ -2036,7 +2036,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 6432
+        sellPrice: 10000
         slot: 6
       8:
         type: item
@@ -2044,7 +2044,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 12000
+        sellPrice: 14000
         slot: 7
       9:
         type: item
@@ -2091,7 +2091,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 8000
+        sellPrice: 8500
         slot: 1
       3:
         type: item
@@ -2099,7 +2099,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 8500
+        sellPrice: 8900
         slot: 2
       4:
         type: item
@@ -2107,7 +2107,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 7800
+        sellPrice: 2500
         slot: 3
       5:
         type: item
@@ -2124,7 +2124,7 @@ shops:
           quantity: 1
           damage: 3
         buyPrice: -1
-        sellPrice: 8000
+        sellPrice: 8500
         slot: 5
       7:
         type: item
@@ -2133,7 +2133,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 10000
+        sellPrice: 15000
         slot: 6
       8:
         type: item
@@ -2141,7 +2141,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 16000
+        sellPrice: 18000
         slot: 7
       9:
         type: item
@@ -2188,7 +2188,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 19000
+        sellPrice: 4750
         slot: 1
       3:
         type: item
@@ -2205,7 +2205,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 19000
+        sellPrice: 28000
         slot: 3
       5:
         type: item
@@ -2213,7 +2213,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 25000
+        sellPrice: 34000
         slot: 4
       6:
         type: item
@@ -2260,7 +2260,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 39000
+        sellPrice: 9750
         slot: 1
       3:
         type: item
@@ -2285,7 +2285,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 39000
+        sellPrice: 58000
         slot: 4
       6:
         type: item
@@ -2293,7 +2293,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 55000
+        sellPrice: 60000
         slot: 5
       7:
         type: item
@@ -2301,7 +2301,7 @@ shops:
           material: RED_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 65000
+        sellPrice: 67000
         slot: 6
       8:
         type: item
@@ -2348,7 +2348,7 @@ shops:
           material: REDSTONE
           quantity: 1
         buyPrice: -1
-        sellPrice: 51000
+        sellPrice: 12750
         slot: 1
       3:
         type: item
@@ -2373,7 +2373,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 51000
+        sellPrice: 76000
         slot: 4
       6:
         type: item
@@ -2381,7 +2381,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 63000
+        sellPrice: 80000
         slot: 5
       7:
         type: item
@@ -2389,7 +2389,7 @@ shops:
           material: RED_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 77000
+        sellPrice: 90000
         slot: 6
       8:
         type: item
@@ -2453,7 +2453,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 51000
+        sellPrice: 76000
         slot: 3
       5:
         type: item
@@ -2461,7 +2461,7 @@ shops:
           material: BROWN_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 72000
+        sellPrice: 95000
         slot: 4
       6:
         type: item
@@ -2469,7 +2469,7 @@ shops:
           material: RED_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 91000
+        sellPrice: 105000
         slot: 5
       7:
         type: item
@@ -2525,7 +2525,7 @@ shops:
           quantity: 1
           damage: 1
         buyPrice: -1
-        sellPrice: 51000
+        sellPrice: 76000
         slot: 2
       4:
         type: item
@@ -2533,7 +2533,7 @@ shops:
           material: RED_MUSHROOM
           quantity: 1
         buyPrice: -1
-        sellPrice: 110011
+        sellPrice: 111111
         slot: 3
       5:
         type: item
