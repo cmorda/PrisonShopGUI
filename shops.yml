@@ -1100,7 +1100,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 320
+        sellPrice: 240
         slot: 4
       6:
         type: item
@@ -1108,7 +1108,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 340
+        sellPrice: 255
         slot: 5
       7:
         type: item
@@ -1230,7 +1230,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 375
+        sellPrice: 282
         slot: 4
       6:
         type: item
@@ -1238,7 +1238,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 395
+        sellPrice: 297
         slot: 5
       7:
         type: item
@@ -1360,7 +1360,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 460
+        sellPrice: 345
         slot: 4
       6:
         type: item
@@ -1368,7 +1368,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 500
+        sellPrice: 375
         slot: 5
       7:
         type: item
@@ -1450,7 +1450,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 540
+        sellPrice: 406
         slot: 2
       4:
         type: item
@@ -1458,7 +1458,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 580
+        sellPrice: 436
         slot: 3
       5:
         type: item
@@ -1531,7 +1531,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 775
+        sellPrice: 582
         slot: 2
       4:
         type: item
@@ -1539,7 +1539,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 805
+        sellPrice: 605
         slot: 3
       5:
         type: item
@@ -1629,7 +1629,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 900
+        sellPrice: 676
         slot: 2
       4:
         type: item
@@ -1637,7 +1637,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 925
+        sellPrice: 695
         slot: 3
       5:
         type: item
@@ -1727,7 +1727,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 1150
+        sellPrice: 864
         slot: 2
       4:
         type: item
@@ -1735,7 +1735,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 1200
+        sellPrice: 902
         slot: 3
       5:
         type: item
@@ -1816,7 +1816,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 1800
+        sellPrice: 1600
         slot: 1
       3:
         type: item
@@ -1824,7 +1824,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 1900
+        sellPrice: 1700
         slot: 2
       4:
         type: item
@@ -1897,7 +1897,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 3200
+        sellPrice: 2900
         slot: 1
       3:
         type: item
@@ -1905,7 +1905,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 3450
+        sellPrice: 3150
         slot: 2
       4:
         type: item
@@ -1994,7 +1994,7 @@ shops:
           material: IRON_ORE
           quantity: 1
         buyPrice: -1
-        sellPrice: 6000
+        sellPrice: 5000
         slot: 1
       3:
         type: item
@@ -2002,7 +2002,7 @@ shops:
           material: IRON_INGOT
           quantity: 1
         buyPrice: -1
-        sellPrice: 6300
+        sellPrice: 5300
         slot: 2
       4:
         type: item
